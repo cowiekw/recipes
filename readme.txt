@@ -2,7 +2,7 @@
 
 View the [official documentation](https://cooklang.org/docs/getting-started/)
 
-Import recipes by adding cook.md/ before the full URL in your browser's address bar (e.g., https://cook.md/https://bbcgoodfood.com/recipes/easy-pancakes/).
+Import recipes by adding ``cook.md/`` before the full URL in your browser's address bar (e.g., https://cook.md/https://bbcgoodfood.com/recipes/easy-pancakes/).
 
 * In a code editor, open a new directory where the project should live. 
 ** If you have VSCode, Vim, or Sublime install the [CookLang exension](https://cooklang.org/docs/getting-started/)
