@@ -12,6 +12,9 @@ Import recipes by adding ``cook.md/`` before the full URL in your browser's addr
 * Clone the repository using SSH or the CLI
 ** You may need your GitHub SSH key downloaded to your device, e.g. /Users/yourame/.ssh/id_ed12445.pub
 
+
+## Installation 
+
 Install the [Cooklang CLI](https://github.com/cooklang/cookcli)
 
 ```
@@ -31,3 +34,13 @@ gh auth login
 gh repo clone cowiekw/recipes
 ```
 
+
+## Usage
+
+View the recipe with ``cook recipe "My Recipe".cook``
+
+Browse all recipes with ``cook server``
+
+Create a shopping list with ``cook shopping-list``
+
+Publish with a [static site generator](https://cooklang.org/docs/use-cases/publishing-recipes/) by converting .cook files into mrkdwn.
